@@ -593,7 +593,7 @@ a:hover { opacity: .85; }
 @media (max-width: 768px) {
   .nav-links   { display: none; }
   .hamburger   { display: flex; }
-  .hero-inner  { flex-direction: column-reverse; text-align: center; gap: 40px; }
+  .hero-inner  { flex-direction: column-reverse; text-align: center; gap: 40px; padding-top: 15px; }
   .hero-buttons { justify-content: center; }
   .hero-image-ring { width: 200px; height: 200px; }
   .hero-image-placeholder span { font-size: 44px; }
