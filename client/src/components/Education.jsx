@@ -15,7 +15,12 @@ const education = [
     date: "Graduated",
     degree: "BS Cyber Security",
     school: "University of Management and Technology",
-  }
+  },
+  {
+  date: "Completed",
+  degree: "Intermediate (ICS)",
+  school: "Punjab Group of Colleges",
+}
 ];
 
 export default function Education() {
